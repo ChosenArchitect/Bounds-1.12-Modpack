@@ -3,7 +3,7 @@
 Bounds is a 1.12 Vanilla+ Hardcore Modpack. This pack is centered around progression through Better With Mods. You start off in a world with nothing and are faced with tough mobs and world generation that forces you to upgrade your tools and armor. Each time you craft a tool you will receive a ranking that will either give you an advantage or disadvantage much like in Terraria. If you can survive you will prosper and have the world at your fingertips.
 
 ## Info
-This modpack was made by [Darkosto](https://www.twitch.tv/darkosto) for [Sevadus](https://www.twitch.tv/sevadus) on Twitch.  
+This modpack was made by [ChosenArchitect](https://www.youtube.com/ChosenArchitect)  
 
 Things to keep in mind:
 
