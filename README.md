@@ -1,4 +1,4 @@
-# Bounds 1.12 Modpack [![Discord][discordImg]][discordLink]
+# Bounds 1.12 Modpack [![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/4YbSd6K)
 
 Bounds is a 1.12 Vanilla+ Hardcore Modpack. This pack is centered around progression through Better With Mods. You start off in a world with nothing and are faced with tough mobs and world generation that forces you to upgrade your tools and armor. Each time you craft a tool you will receive a ranking that will either give you an advantage or disadvantage much like in Terraria. If you can survive you will prosper and have the world at your fingertips.
 
@@ -19,6 +19,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Thanks to FTB for answering all my questions!
 
-[discordImg]: https://img.shields.io/discord/329440410839678986.svg?logo=discord&logoWidth=18&colorB=7289DA
-
-[discordLink]: https://discord.gg/4YbSd6K
