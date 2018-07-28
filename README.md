@@ -9,8 +9,8 @@ This modpack was made by [ChosenArchitect](https://www.youtube.com/ChosenArchite
 Things to keep in mind:
 
 1. If you find any bugs, make sure to report them!!!!
-2. Look at the advancements, the pack uses them for questing. 
-3. Have Fun!
+2. Look at the Guide Book for help. 
+3. If you have any questions ask them on the Discord!
 
 ## License
 
