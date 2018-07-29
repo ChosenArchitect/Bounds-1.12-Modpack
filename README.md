@@ -1,7 +1,7 @@
 # Bounds 1.12 Modpack [![Discord](https://img.shields.io/discord/262030232683413504.svg?logo=discord&logoWidth=18&colorB=7289DA)](https://discord.gg/4YbSd6K) [![Twitter Follow](https://img.shields.io/twitter/follow/ChosenArchitect.svg?style=social&label=Follow)](https://twitter.com/ChosenArchitect)
 
 
-Bounds is a 1.12 Vanilla+ Hardcore Modpack. This pack is centered around progressing through Better With Mods. You start off in a world with nothing and are faced with tough mobs and world generation that forces you to upgrade your tools and armor. You will have to work for your map and other tools. If you can survive you will prosper and have the world at your fingertips.
+Bounds is a 1.12 Vanilla+ Hardcore Modpack. This pack is centered around progressing through Better With Mods. You start off in a world with nothing and are faced with tough mobs and world generation that forces you to explore and find new structures. You will need to work for the tools that you would normally take for granted. If you can survive you will prosper and have the world at your fingertips.
 
 ## Info
 This modpack was made by [ChosenArchitect](https://www.youtube.com/ChosenArchitect)  
