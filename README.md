@@ -20,4 +20,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Thanks to FTB for answering all my questions!
 
+[curseImg]: http://cf.way2muchnoise.eu/268208.svg
+
 [curseLink]: https://minecraft.curseforge.com/projects/bounds
