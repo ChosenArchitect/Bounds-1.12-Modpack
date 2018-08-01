@@ -7,7 +7,7 @@ You'll start your first world with nothing. No map or location information.  As 
 
 This pack has been tested and is fully compatible with multiplayer.
 
-###Note:
+### Note:
 This pack will continue to add content after its initial release. I plan on adding more to the end-game, and bug fixes along the way. I will do my best to make sure no update will corrupt worlds and the new updates will work as intended.
 
 ## Info
