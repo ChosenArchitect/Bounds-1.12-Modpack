@@ -1,0 +1,29 @@
+{
+  "views": [
+    {
+      "name": "All Chat",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Chat",
+      "isExclusive": false,
+      "isMuted": false,
+      "channels": [
+        "main",
+        "chosenarchitect",
+        "death",
+        "interaction"
+      ]
+    },
+    {
+      "name": "system",
+      "filterPattern": "",
+      "outputFormat": "$0",
+      "style": "Side",
+      "isExclusive": true,
+      "isMuted": false,
+      "channels": [
+        "system"
+      ]
+    }
+  ]
+}
