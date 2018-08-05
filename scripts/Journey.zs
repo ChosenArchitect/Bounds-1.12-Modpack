@@ -1,4 +1,4 @@
-#Name: recipe_mods.zs
+#Name: journey.zs
 #Author: ChosenArchitect
 
 print("Initializing 'journey.zs'...");
