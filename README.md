@@ -26,13 +26,8 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 * Thanks to FTB for answering all my questions!
 
 ##Offical Let's Play:
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=CjJgJZ63ZEo" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=CjJgJZ63ZEo"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+[![Watch the video]](https://www.youtube.com/watch?v=CjJgJZ63ZEo)
+
 
 
 
