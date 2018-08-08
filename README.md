@@ -25,11 +25,6 @@ This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md
 
 * Thanks to FTB for answering all my questions!
 
-##Offical Let's Play:
-[![Watch the video]](https://www.youtube.com/watch?v=CjJgJZ63ZEo)
-
-
-
 
 [curseImg]: http://cf.way2muchnoise.eu/bounds.svg
 
