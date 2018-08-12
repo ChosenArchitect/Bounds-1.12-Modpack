@@ -6,7 +6,7 @@ Bounds is a 1.12.2 Vanilla+ Hardcore Modpack. This pack is centered around the p
 This pack has been tested and is fully compatible with multiplayer.
 
 ### Note:
-For those on weaker or older computer disable Blur and Better Foliage
+For those on weaker or older computer disable Blur and Better Foliage.
 Updates will now be once a week unless something major comes up.
 
 ## Info
