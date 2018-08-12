@@ -7,6 +7,7 @@ This pack has been tested and is fully compatible with multiplayer.
 
 ### Note:
 For those on weaker or older computer disable Blur and Better Foliage.
+
 Updates will now be once a week unless something major comes up.
 
 ## Info
